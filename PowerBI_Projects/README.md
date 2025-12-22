@@ -1,16 +1,14 @@
-# 📁 Repository Structure
-
-This repository follows a consistent naming convention for Power BI projects.
-
 ## 📂 Files Included
 
 ```
 Project_Name/
-├── Project_Name.pbix
-├── Project_Name.csv
-├── Project_Name.png
-├── Project_Name_Page2.png
+│
+├── Project_Name.pbix        # Power BI dashboard file
+├── Project_Name.csv         # Dataset used for the dashboard
+├── Project_Name.png         # Dashboard screenshot
+├── Project_Name_Page2.png   # Additional dashboard screenshot
 └── README.md
+
 ```
 
 ## 📌 Naming Rule
