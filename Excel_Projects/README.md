@@ -6,12 +6,14 @@ All components (dataset, pivot tables, and dashboard) are created **within a sin
 ---
 
 ## 📂 Files in This Repository
+
+'''
 Project_Name/
 │
 ├── Project_Name.xlsx # Dataset, pivot tables, and dashboard in one sheet
 ├── Project_Name.png # Dashboard screenshot
 └── README.md
-
+'''
 ---
 
 ## 📌 Sheet Structure
