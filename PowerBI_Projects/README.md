@@ -9,12 +9,6 @@ Project_Name/
 ├── Project_Name_Page2.png   # Additional dashboard screenshot
 └── README.md
 
-```
-
-## 📌 Naming Rule
-All files use the same project name for clarity and professionalism.
-
-```
 
 ```
 ## PROJECTS LIST
@@ -24,5 +18,9 @@ All files use the same project name for clarity and professionalism.
 4.Amazon Sales
 5.adidas Sales
 6.Real Mart Sales
+
+```
+## 📌 Naming Rule
+All files use the same project name for clarity and professionalism.
 
 ```
