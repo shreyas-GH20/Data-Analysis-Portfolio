@@ -13,3 +13,11 @@ Project_Name/
 
 ## 📌 Naming Rule
 All files use the same project name for clarity and professionalism.
+
+## PROJECTS LIST
+1.Customer Retention & Churn Analysis
+2.HR Analytics - Diversity, Inclusion & Employee Attrition
+3.Call Centre Trends
+4.Amazon Sales
+5.adidas Sales
+6.Real Mart Sales
