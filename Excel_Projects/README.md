@@ -14,8 +14,8 @@ Project_Name/
 ├── Project_Name.png # Dashboard screenshot
 └── README.md
 ```
-
 ## Project List
+```
 1.Blinkkit Sales Analysis
 2.COVID-19
 ```
