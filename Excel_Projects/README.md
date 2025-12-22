@@ -15,6 +15,12 @@ Project_Name/
 └── README.md
 ```
 
+```
+## Project List
+1.Blinkkit Sales Analysis
+2.COVID-19
+```
+
 
 ## 📌 Sheet Structure
 - **Single worksheet** contains:
