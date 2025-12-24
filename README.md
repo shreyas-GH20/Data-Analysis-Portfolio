@@ -54,7 +54,8 @@ Focused on analyzing data, building dashboards, and delivering **actionable busi
 
  This repository highlights my practical data analytics projects and problem-solving approach.
 
-# NOTE--This repository is intended for learning and reference purposes only.
-# I kindly request that it not be reposted or used for personal branding,
-# resumes, or public profiles without prior permission.
+# NOTE
+This repository is intended for learning and reference purposes only.
+I kindly request that it not be reposted or used for personal branding,
+resumes, or public profiles without prior permission.
 
